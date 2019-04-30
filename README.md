@@ -22,24 +22,24 @@ Jika Anda sudah memiliki topik yang ingin disampaikan di Lightning Talks, buat I
 Berikut contohnya:
 
 ```
-*   Nama Lengkap: Muhammad Ridho Febriansa
-*   Pekerjaan: Mahasiswa Informatika di Universitas Surabaya 
-*   Kontak yang bisa dihubungi (Telegram): ridhofebriansa
-*   Judul Lightning Talks: Membuat blog dalam 5 menit menggunakan Jekyll Now dan Github Pages
-*   Overview (140 characters): Pada lightning talks kali ini saya ingin menjelaskan mengenai Jekyll, sebuah static site generator yang dibangun dengan Ruby. Dan saya akan menggunakan Jekyll Now untuk mempercepat proses pengembangan blog lalu mendeploy di Github Pages.
-*   Brief Outline: 
-    *   A brief history of blogs
-    *   Introduction to Jekyll
-    *   Introduction to Github Pages
-    *   A brief overview to Jekyll Now
-    *   Jekyll Now workflow
-    *   Conclusion
+Nama Lengkap: Muhammad Ridho Febriansa
+Pekerjaan: Mahasiswa Informatika di Universitas Surabaya 
+Kontak yang bisa dihubungi (Telegram): ridhofebriansa
+Judul Lightning Talks: Membuat blog dalam 5 menit menggunakan Jekyll Now dan Github Pages
+Overview (140 characters): Pada lightning talks kali ini saya ingin menjelaskan mengenai Jekyll, sebuah static site generator yang dibangun dengan Ruby. Dan saya akan menggunakan Jekyll Now untuk mempercepat proses pengembangan blog lalu mendeploy di Github Pages.
+Brief Outline: 
+    1.  A brief history of blogs
+    2.  Introduction to Jekyll
+    3.  Introduction to Github Pages
+    4.  A brief overview to Jekyll Now
+    5.  Jekyll Now workflow
+    6.  Conclusion
         
 ```
 
 ## Good References On Presenting Code
 
-[Codeware by LootAtMySlides](https://www.slideshare.net/LookAtMySlides/codeware) merupakan referensi yang sangat bagus untuk mendesain slidedeck yang baik untuk mempresentasikan tentang code. Dan berikut merupakan hal-hal kecil yang didapatkan dari referensi tersebut, yaitu:
+[Codeware by LooKAtMySlides](https://www.slideshare.net/LookAtMySlides/codeware) merupakan referensi yang sangat bagus untuk mendesain slidedeck yang baik untuk mempresentasikan tentang code. Dan berikut merupakan hal-hal kecil yang didapatkan dari referensi tersebut, yaitu:
 *   Gunakan ukuran font yang sangat besar tetapi dengan jumlah teks yang sesedikit mungkin untuk tiap slide. Jangan lupakan orang-orang yang duduk di bangku paling belakang.
 *   Ingin menunjukkan contoh code? Gunakan ukuran font sebesar mungkin dan gunakan seluruh screen.
 *   Minimalisir penggunaan contoh code dan bullet points karena hal tersebut sulit untuk dibaca.
