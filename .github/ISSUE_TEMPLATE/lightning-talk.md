@@ -1,10 +1,9 @@
 ---
 name: Lightning Talk
 about: Lightning Talk Template
-title: ''
+title: 'Your Title'
 labels: Lightning Talk
 assignees: ''
-
 ---
 
 ---
