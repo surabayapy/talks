@@ -16,7 +16,7 @@ Kami memiliki beberapa tipe Talk yang mungkin bisa sebagai referensi:
 * Full Talks
 * Workshop
 
-[**Submit your talk now**](https://github.com/surabaya-py/talks/issues/new)
+[**Submit your talk now**](https://github.com/surabaya-py/talks/issues/new/choose)
 
 ## Interest with some talks?
 
@@ -28,4 +28,4 @@ Kamu ingin melihat dan berdiskusi tentang suatu topik yang akan dibahas oleh spe
 
 Jika teman-teman juga ingin melakukan request untuk materi tertentu, lakukan request dengan melakukan submission juga.
 
-[**Request a talk now**](https://github.com/surabaya-py/talks/issues/new?labels=Request%20Talk)
+[**Request a talk now**](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=request-talks.md&title=%5BRequest%5D+Your+Title)
