@@ -10,7 +10,7 @@ Kita menggunakan [lightningtimer.io](http://lightningtimer.io/) sebagai timer ya
 
 ## Submit Your Lightning Talks?
 
-Jika Anda sudah memiliki topik yang ingin disampaikan di Lightning Talks, buat Issue baru di repository ini atau klik [disini](https://github.com/surabaya-py/talks/issues/new). Pastikan supaya di Issue tertulis informasi berikut:
+Jika Anda sudah memiliki topik yang ingin disampaikan di Lightning Talks, buat Issue baru di repository ini atau klik [disini](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=). Pastikan supaya di Issue tertulis informasi berikut:
 
 *   Nama Lengkap: 
 *   Pekerjaan: 
