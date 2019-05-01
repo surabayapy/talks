@@ -28,4 +28,4 @@ Kamu ingin melihat dan berdiskusi tentang suatu topik yang akan dibahas oleh spe
 
 Jika teman-teman juga ingin melakukan request untuk materi tertentu, lakukan request dengan melakukan submission juga.
 
-[**Request a talk now**](https://github.com/surabaya-py/talks/issues/new)
+[**Request a talk now**](https://github.com/surabaya-py/talks/issues/new?labels=Request%20Talk)
