@@ -1,6 +1,6 @@
 ---
 name: Lightning Talk
-about: Lightning Talk Template
+about: Daftar Untuk Jadi Lightning Talk Speaker
 title: 'Your Title'
 labels: Lightning Talk
 assignees: ''
