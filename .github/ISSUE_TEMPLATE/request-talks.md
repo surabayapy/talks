@@ -2,7 +2,7 @@
 name: Request Talks
 about: Request Topik Talks
 title: '[Request] Your Title'
-labels: Lightning Talk
+labels: Request Talk
 assignees: ''
 ---
 
