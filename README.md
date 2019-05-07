@@ -4,9 +4,12 @@ Sebagai komunitas, kami merupakan wadah untuk berbagi ilmu. Jika teman-teman ing
 
 Table of Contents
 ----
-- [Submit talks](#submit-talks)
-- [Interest with some talks?](#interest-with-some-talks)
-- [Request talks](#request-talks)
+- [Surabaya Py List of Talks, future and past](#surabaya-py-list-of-talks-future-and-past)
+  - [Table of Contents](#table-of-contents)
+  - [Submit Talks](#submit-talks)
+  - [Interest with some talks?](#interest-with-some-talks)
+  - [Request Talks](#request-talks)
+  - [Supported By](#supported-by)
 
 
 ## Submit Talks
@@ -29,3 +32,7 @@ Kamu ingin melihat dan berdiskusi tentang suatu topik yang akan dibahas oleh spe
 Jika teman-teman juga ingin melakukan request untuk materi tertentu, lakukan request dengan melakukan submission juga.
 
 [**Request a talk now**](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=request-talks.md&title=%5BRequest%5D+Your+Title)
+
+## Supported By
+
+<img src="img/jetbrains.png" width="150">
