@@ -54,7 +54,7 @@ Brief Outline:
 
 [Codeware by LooKAtMySlides](https://www.slideshare.net/LookAtMySlides/codeware) merupakan referensi yang sangat bagus untuk mendesain slidedeck yang baik untuk mempresentasikan tentang code. Dan berikut merupakan hal-hal kecil yang didapatkan dari referensi tersebut, yaitu:
 *   Gunakan ukuran font yang sangat besar tetapi dengan jumlah teks yang sesedikit mungkin untuk tiap slide. Jangan lupakan orang-orang yang duduk di bangku paling belakang.
-*   Ingin menunjukkan contoh code? Gunakan ukuran font sebesar mungkin dan gunakan seluruh screen.
+*   Ingin menunjukkan contoh code? Gunakan ukuran font sebesar mungkin dan gunakan seluruh screen atau gunakan [carbon].(https://carbon.now.sh).
 *   Minimalisir penggunaan contoh code dan bullet points karena hal tersebut sulit untuk dibaca.
 *   Jika Anda ingin melakukan demo, gunakan rekaman video ataupun gif untuk menghindari proses gradle ataupun yang memakan banyak waktu. Anda dapat menggunakan [Licecap](https://www.cockos.com/licecap/) untuk merekam.
 
@@ -66,6 +66,7 @@ You know that thing at work that everyone comes to you for help with? Talk about
 You know that thing you just learned that helped you out? Talk about that!
 You know that thing you always wish you understood, but haven't figured out yet? Talk about that!
 Things people say when they think they can't do a lightning talk:
+
 ”Everyone already knows THING_X”
 
 *   No, they don't.
