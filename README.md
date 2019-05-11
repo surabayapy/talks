@@ -2,6 +2,11 @@
 
 Sebagai komunitas, kami merupakan wadah untuk berbagi ilmu. Jika teman-teman ingin berbagi atas apa yang telah dipelajari tentang sebuah teknologi dan ingin berbagi tentangnya, kami sangat senang untuk mendengar tentangnya.
 
+## TLDR: Cara Submit
+
+[Buat issue baru](https://github.com/surabaya-py/talks/issues) dan pilih template yang sesuai diinginkan.
+
+
 ---
 ## Announcement: Meetup 25 Mei 2019 - Ayo Jadi Speaker di Lightning Talks!
 
