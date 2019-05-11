@@ -1,16 +1,24 @@
 # Surabaya.py Call For Lightning Talks Speaker
 
-Lightning talks merupakan salah satu acara yang unik dari Surabaya.py dimana orang-orang dapat mendaftarkan diri untuk jadi pembicara di Surabaya.py yang selalu dihadiri oleh peserta dengan berbagai macam latar belakang seperti Developers, Engineers, Pengajar ataupun Dosen, Siswa maupun Mahasiswa, hingga para Entusias. Topik dapat meliputi 3 hal berikut: Web, Data, dan IoT. Topik tidak terbatas pada penggunaan bahasa Python saja.
+> Semua orang pernah menjadi newbie, Share apa yang kamu pelajari merupakan langkah meninggalkan status tersebut
 
-Apa sih Lightning Talk itu? Lightning Talk merupakan sebuah talk atau sharing dengan durasi 5 menit. Topik yang dibawakan tidak harus sesuatu yang dibuat sendiri, boleh dari apa yang dipelajari maupun teknik yang orang lain akan tertarik untuk belajar dan mengeksplor hal tersebut.
+Ada ide besar yang ingin disampaikan dalam waktu singkat? Ada percobaan sederhana yang semua orang harus tau jika itu bisa terjadi? Atau hanya mau sekedar sharing apa yang kamu pelajari tadi malam? Ayo share hasilnya di Lightning Talks!
 
-Untuk mendaftar sebagai Pembicara Lightning Talks, kita menggunakan GitHub Issues. Kenapa GitHub Issues? Karena simpel dan praktis. Selain itu, dengan GitHub Issues kita juga bisa tahu topik mana yang saat ini sedang diminati oleh banyak orang. Sehingga orang-orang juga bisa bertanya langsung di Issue tersebut. Setelah membuat Issue, kami akan menginformasikan melalui kontak yang ditulis di dalam Issue untuk informasi berikutnya.
+Lightning talks merupakan kegiatan talks dalam waktu 5-10 menit. Pertama kali diadakan menjadi bagian pada Python Conference 1997 dan hingga saat ini masih ada. Lebih lanjut tentang lighning talks bisa di baca [di wikipedia](https://en.wikipedia.org/wiki/Lightning_talk).
 
-Kita menggunakan [lightningtimer.io](http://lightningtimer.io/) sebagai timer yang sering digunakan pada acara Lightning Talks. Ketika waktu pada timer habis, berarti waktu untuk berbicara telah habis dan kami akan beralih ke pembicara berikutnya ataupun ke sesi berikutnya.
+Topik yang dibawakan tidak harus sesuatu yang dibuat sendiri, boleh dari apa yang sudah dipelajari maupun teknik yang orang lain akan tertarik untuk belajar dan mengeksplor hal tersebut. Speaker sendiri bisa dari kalangan pelajar, dosen, praktisi maupun hobbyist. Karena kita dari komunitas, oleh komunitas dan untuk komunitas
 
 ## Submit Your Lightning Talks?
 
-Jika Anda sudah memiliki topik yang ingin disampaikan di Lightning Talks, buat Issue baru di repository ini atau klik [disini](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=). Pastikan supaya di Issue tertulis informasi berikut:
+Untuk mendaftar sebagai Pembicara Lightning Talks, kita menggunakan GitHub Issues. Kenapa GitHub Issues? Karena simpel dan praktis. Selain itu, dengan GitHub Issues kita juga bisa tahu topik mana yang saat ini sedang diminati oleh banyak orang. Sehingga orang-orang juga bisa bertanya langsung di Issue tersebut. Setelah membuat Issue, kami akan menginformasikan melalui kontak yang ditulis di dalam Issue untuk informasi berikutnya.
+
+Jika Anda sudah memiliki topik yang ingin disampaikan di Lightning Talks, buat Issue baru di repository ini atau klik [disini](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=). 
+
+[**Daftar Di sini**](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=) <br />
+[**Daftar Di sini**](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=) <br />
+[**Daftar Di sini**](https://github.com/surabaya-py/talks/issues/new?assignees=&labels=Lightning+Talk&template=lightning-talk.md&title=)
+
+Pastikan supaya di Issue tertulis informasi berikut:
 
 *   Nama Lengkap: 
 *   Pekerjaan: 
