@@ -8,6 +8,11 @@ Lightning talks merupakan kegiatan talks dalam waktu 5-10 menit. Pertama kali di
 
 Topik yang dibawakan tidak harus sesuatu yang dibuat sendiri, boleh dari apa yang sudah dipelajari maupun teknik yang orang lain akan tertarik untuk belajar dan mengeksplor hal tersebut. Speaker sendiri bisa dari kalangan pelajar, dosen, praktisi maupun hobbyist. Karena kita dari komunitas, oleh komunitas dan untuk komunitas
 
+## Contoh Lightning Talks Di Python Conference
+
+* [Banyak pemateri dalam satu sesi](https://www.youtube.com/watch?v=bTAFl8P2DkE)
+* [Pembawaan materi yang menarik](https://www.linkedin.com/feed/update/urn:li:ugcPost:6505757894737215488/)
+
 ## Submit Your Lightning Talks?
 
 Untuk mendaftar sebagai Pembicara Lightning Talks, kita menggunakan GitHub Issues. Kenapa GitHub Issues? Karena simpel dan praktis. Selain itu, dengan GitHub Issues kita juga bisa tahu topik mana yang saat ini sedang diminati oleh banyak orang. Sehingga orang-orang juga bisa bertanya langsung di Issue tersebut. Setelah membuat Issue, kami akan menginformasikan melalui kontak yang ditulis di dalam Issue untuk informasi berikutnya.
