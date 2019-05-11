@@ -1,6 +1,31 @@
-# Surabaya Py List of Talks, future and past
+# Surabaya Py Talks Submission
 
 Sebagai komunitas, kami merupakan wadah untuk berbagi ilmu. Jika teman-teman ingin berbagi atas apa yang telah dipelajari tentang sebuah teknologi dan ingin berbagi tentangnya, kami sangat senang untuk mendengar tentangnya.
+
+---
+## Announcement: Meetup 25 Mei 2019 - Ayo Jadi Speaker di Lightning Talks!
+
+Calling all developer for making their own personal branding.
+
+Hello Fellass...
+Taukah kamu bahwa sharing sesuatu merupakan salah satu cara belajar yang efektif? Dan itu yang kami harapkan dari kamu! Surabaya.py akan mengadakan meet-up dengan gaya Lightning Talks. Akan ada banyak speaker yang sharing ide, pengalaman, demo program atau kesehariannya menggunakan Python masing-masing dalam waktu 5 menit.
+
+Apakah harus menjadi expert untuk ikut ini? Tidak! First timer is welcome. Buktikan jika talent seperti kalian ada di sini.
+
+Meet up ini akan diadakan tanggal 25 Mei 2019 di GeCo. Speaker terfavorit akan mendapat hadiah dari Jetbrains. Tertarik? Pelajari dan submit di [**sini**](https://github.com/surabaya-py/talks/blob/master/Lightning%20Talks%20README.md)
+
+Kalian bisa memilih satu atau lebih topik berikut: 
+- Web 🖥
+- Data 💾
+- Internet Of Things 📡
+
+Kami tunggu talks mu!
+
+PS: Tau kah kamu, banyak conference yang juga membuka Lightning Talks. Jadi ini bisa jadi ajang latihan kalian! Ayo submit!
+
+[**Klik Di Sini Untuk Pelajari Tentang Lightning Talks**](https://github.com/surabaya-py/talks/blob/master/Lightning%20Talks%20README.md)
+
+---
 
 Table of Contents
 ----
